@@ -6,6 +6,7 @@
 - A simple [TUMO discord bot]('https://github.com/Hypermario/TUMO-bot')
 - Finding new small projects to improve my knowledge and learn lots of new things.
 
+
 ### You can find me here :
 > [Instagram](https://www.instagram.com/axxi4r/)
 > 
