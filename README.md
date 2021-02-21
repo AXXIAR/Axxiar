@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Alexis - aka Axxiar, a french 16yo student learning programming
+## I'm Alexis - aka **Axxiar**, a french 16yo student learning programming
 
 ## I'm currently working on :
 - A simple [TUMO discord bot]('https://github.com/Hypermario/TUMO-bot')
