@@ -16,4 +16,4 @@
 > 
 > or by Mail : galoualexis@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=axxiar
+![Stats](https://github-readme-stats.vercel.app/api?username=axxiar)
