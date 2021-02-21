@@ -7,6 +7,9 @@
 
 ### You can find me here :
 > [Instagram](https://www.instagram.com/axxi4r/)
+
 > [Twitter](https://twitter.com/Axxi4R)
+
 > Discord : @AXXIAR#2422
+
 > or by Mail : galoualexis@gmail.com
