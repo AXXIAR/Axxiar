@@ -3,7 +3,8 @@
 <hr>
 
 ### I'm currently working on :
-- A simple [TUMO discord bot]('https://github.com/Hypermario/TUMO-bot')
+- A simple python [discord bot]('https://github.com/Hypermario/TUMO-bot')
+- Programming a little game on Roblox Studio using lua
 - Finding new small projects to improve my knowledge and learn lots of new things.
 
 ### You can find me here :
