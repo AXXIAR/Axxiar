@@ -13,7 +13,5 @@
 > [Twitter](https://twitter.com/Axxi4R)
 > 
 > Discord : @AXXIAR#2422
-> 
-> or by Mail : galoualexis@gmail.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=axxiar)
