@@ -8,7 +8,7 @@
 - A small Image Editor in python
 - Finding new small projects to improve my knowledge and learn lots of new things.
 
-### You can find me here :
+### You can find me there :
 > [Twitter](https://twitter.com/Axxi4R)
 > 
 > Discord : @AXXIAR#2422
