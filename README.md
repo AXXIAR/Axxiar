@@ -3,7 +3,7 @@
 <hr>
 
 ### I'm currently working on :
-- A simple python [discord bot]('https://github.com/Hypermario/TUMO-bot')
+- A simple python discord bot ('https://github.com/Hypermario/TUMO-bot')
 
 - Programming a little game on Roblox Studio using lua
 - A small Image Editor in python
