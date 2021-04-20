@@ -15,4 +15,7 @@
 > 
 > Discord : @AXXIAR#2422
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=axxiar&show_icons=true&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxiar&layout=compact&theme=tokyonight)
