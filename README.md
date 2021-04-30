@@ -10,7 +10,7 @@
 - Finding new small projects to improve my knowledge and learn lots of new things.
 
 ### You can contact me here :
-https://discord.bio/p/axxiar
+> https://discord.bio/p/axxiar
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=axxiar&show_icons=true&theme=dark&hide_border=true)
