@@ -9,10 +9,8 @@
 - Programming a small game on Roblox Studio using lua
 - Finding new small projects to improve my knowledge and learn lots of new things.
 
-### You can find me there :
-> [Twitter](https://twitter.com/Axxi4R)
-> 
-> Discord : @AXXIAR#2422
+### You can find contacts here :
+> https://discord.bio/p/axxiar
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=axxiar&show_icons=true&theme=monokai&hide_border=false)
