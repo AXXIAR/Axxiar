@@ -13,6 +13,6 @@
 https://discord.bio/p/axxiar
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=axxiar&show_icons=true&theme=dark&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=axxiar&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxiar&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxiar&layout=compact&theme=dark&hide_border=true)
