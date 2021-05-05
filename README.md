@@ -4,7 +4,7 @@
 
 ### I'm currently working on :
 
-- A simple python [discord bot](http://github.com/Hypermario/TUMO-bot)
+- Some Discord bots here and there
 - A Python [Image Editor](https://github.com/AXXIAR/PhotoShape)
 - Programming a small game on Roblox Studio using lua
 - Finding new small projects to improve my knowledge and learn lots of new things.
