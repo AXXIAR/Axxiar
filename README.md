@@ -6,8 +6,7 @@
 
 - Some Discord bots here and there
 - A Python [Image Editor](https://github.com/AXXIAR/PhotoShape)
-- Programming a small game on Roblox Studio using lua
-- Finding new small projects to improve my knowledge and learn lots of new things.
+- Improving my knowledge and learning a lots of new things.
 
 ### You can contact me here :
 > [discord.bio/p/axxiar](https://discord.bio/p/axxiar)
